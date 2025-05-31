@@ -12,7 +12,7 @@ for a given task.
 
 *******************
 Release Inform
-*******************
+***********
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
